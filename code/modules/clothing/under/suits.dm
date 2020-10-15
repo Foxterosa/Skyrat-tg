@@ -150,10 +150,11 @@
 	icon_state = "redsuit"
 	can_adjust = TRUE
 
-/obj/item/clothing/under/suit/redsuit/skirt
+/obj/item/clothing/under/suit/redsuitskirt
 	name = "falda de camisa roja"
 	desc = "Un camisa de traje roja junto a una bonita falda, muy elegante y femenina."
 	icon_state = "redsuitskirt"
+	can_adjust = TRUE
 	alt_covers_chest = TRUE
 	dying_key = DYE_REGISTRY_JUMPSKIRT
 	fitted = FEMALE_UNIFORM_TOP

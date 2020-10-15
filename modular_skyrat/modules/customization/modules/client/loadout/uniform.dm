@@ -161,7 +161,7 @@ datum/loadout_item/uniform/suit/redsuit
 
 /datum/loadout_item/uniform/skirt/redsuitskirt
 	name = "Traje rojo con falda, femenino"
-	path = /obj/item/clothing/under/suit/redsuit/skirt
+	path = /obj/item/clothing/under/suit/redsuitskirt
 
 //DRESSES
 /datum/loadout_item/uniform/dress
