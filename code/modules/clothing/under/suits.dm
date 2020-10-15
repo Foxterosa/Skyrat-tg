@@ -150,7 +150,7 @@
 	icon_state = "redsuit"
 	can_adjust = TRUE
 
-/obj/item/clothing/under/suit/redskirt
+/obj/item/clothing/under/suit/redsuitskirt
 	name = "falda de camisa roja"
 	desc = "Un camisa de traje roja junto a una bonita falda, muy elegante y femenina."
 	icon_state = "redsuitskirt"
