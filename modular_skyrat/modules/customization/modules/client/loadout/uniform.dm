@@ -107,6 +107,11 @@
 	name = "White suit"
 	path = /obj/item/clothing/under/suit/white
 
+datum/loadout_item/uniform/suit/redsuit
+	name = "Traje rojo, femenino"
+	path = /obj/item/clothing/under/suit/redsuit
+
+
 //SKIRTS
 /datum/loadout_item/uniform/skirt
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_SKIRTS
@@ -154,6 +159,10 @@
 /datum/loadout_item/uniform/skirt/denimskirt
 	name = "Denim Skirt"
 	path = /obj/item/clothing/under/pants/denimskirt
+
+/datum/loadout_item/uniform/skirt/redsuitskirt
+	name = "Traje rojo con falda, femenino"
+	path = /obj/item/clothing/under/suit/redsuit/skirt
 
 //DRESSES
 /datum/loadout_item/uniform/dress
