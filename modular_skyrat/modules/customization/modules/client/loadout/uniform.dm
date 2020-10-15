@@ -111,7 +111,6 @@ datum/loadout_item/uniform/suit/redsuit
 	name = "Traje rojo, femenino"
 	path = /obj/item/clothing/under/suit/redsuit
 
-
 //SKIRTS
 /datum/loadout_item/uniform/skirt
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_SKIRTS
