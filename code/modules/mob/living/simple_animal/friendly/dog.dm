@@ -142,6 +142,22 @@
 	name = "McGriff"
 	desc = "This dog can tell someting smells around here, and that something is CRIME!"
 
+//Mejor que Ian
+/mob/living/simple_animal/pet/dog/cheems
+	name = "\improper Cheems"
+	real_name = "Cheems"
+	desc = "Its an overfeed dog that smells like a cheese burger."
+	gold_core_spawnable = FRIENDLY_SPAWN
+	icon = 'icons_manaos/mob/Pets/cheems.dmi'
+	icon_state = "cheems"
+	icon_living = "cheems"
+	icon_dead = "cheems_dead"
+	held_lh = 'icons_manaos/mob/Pets/cheems_left.dmi'
+	held_rh = 'icons_manaos/mob/Pets/cheems_right.dmi'
+	held_state = "cheems2"
+	butcher_results = list(/obj/item/food/burger/cheese = 1) //cheems burger
+
+
 /mob/living/simple_animal/pet/dog/bullterrier
 	name = "\improper bull terrier"
 	real_name = "bull terrier"
@@ -654,3 +670,5 @@
 	..()
 
 	make_babies()
+
+
