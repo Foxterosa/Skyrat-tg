@@ -33,11 +33,14 @@
 	suit = /obj/item/clothing/suit/det_suit
 	gloves = /obj/item/clothing/gloves/color/black
 	head = /obj/item/clothing/head/fedora/det_hat
+	glasses = /obj/item/clothing/glasses/hud/security/sunglasses
 	l_pocket = /obj/item/toy/crayon/white
-	r_pocket = /obj/item/lighter
+	r_pocket = /obj/item/restraints/handcuffs
 	backpack_contents = list(/obj/item/storage/box/evidence=1,\
 		/obj/item/detective_scanner=1,\
-		/obj/item/melee/classic_baton=1)
+		/obj/item/melee/classic_baton/telescopic=1,\
+		/obj/item/lighter=1,\
+		/obj/item/clothing/mask/gas/sechailer=1)
 	mask = /obj/item/clothing/mask/cigarette
 
 	implants = list(/obj/item/implant/mindshield)
